@@ -5,10 +5,10 @@
 :root {
 --color-body: #b6cbce;
 --color-heading: #eef3db;
---color-base: #4ac86e50;
---color-base2: #75e597;
---color-brand: #4ac86e50;
---color-brand2: #b7df50;
+--color-base: #033f47;
+--color-base2: #022a30;
+--color-brand: #e0f780;
+--color-brand2: #deff58;
 --sidbar-width: 240px;
 --font-base: "Bai Jamjuree";
 }
